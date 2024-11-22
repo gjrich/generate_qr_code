@@ -2,8 +2,7 @@
 A QR code generating script.
 
 
-# Gabriel Richards
-# Nov 2024
+# Gabriel Richards | Nov 2024
 
 Generated with assistance from Claude.ai / Anthropic
 https://claude.ai
